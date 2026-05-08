@@ -1,0 +1,112 @@
+[
+  {
+    "id": "ChIJLSJCTAVbIpQR7x27_MZYklw",
+    "nombre": "Bar La Gruta",
+    "ubicacion": "San Miguel de Tucumán",
+    "telefono": "sin definir",
+    "categoria": "Bar",
+    "fuente": "n8n",
+    "descripcion": "Bar en San Miguel de Tucumán con una puntuación de 4.4 sobre 72 reseñas, ideal para quienes buscan un buen lugar para disfrutar.",
+    "fechaObtencion": "8 de Mayo del 2026",
+    "activo": false
+  },
+  {
+    "id": "ChIJMfJAzcNbIpQR9CR0DbS2dZE",
+    "nombre": "Bar La Kolo",
+    "ubicacion": "Av. Democracia, San Miguel de Tucumán",
+    "telefono": "sin definir",
+    "categoria": "Bar",
+    "fuente": "n8n",
+    "descripcion": "Bar La Kolo es un bar ubicado en Av. Democracia, San Miguel de Tucumán. Cuenta con una puntuación perfecta de 5 basada en 1 reseña, indicando una experiencia muy positiva.",
+    "fechaObtencion": "8 de Mayo del 2026",
+    "activo": true
+  },
+  {
+    "id": "ChIJQ52HKwBbIpQRKWqb0mIFyAk",
+    "nombre": "Bar La Vespucio",
+    "ubicacion": "Av. Américo Vespucio 849, San Miguel de Tucumán",
+    "telefono": "+54 381 509-0709",
+    "categoria": "Bar",
+    "fuente": "n8n",
+    "descripcion": "Bar ubicado en Av. Américo Vespucio 849 en San Miguel de Tucumán, con una puntuación perfecta de 5 basada en 2 reseñas, ideal para quienes buscan calidad.",
+    "fechaObtencion": "8 de Mayo del 2026",
+    "activo": true
+  },
+  {
+    "id": "ChIJwxf5PQBbIpQR0RCoetHPlRU",
+    "nombre": "Cuchu's Bar",
+    "ubicacion": "San Miguel de Tucumán",
+    "telefono": "+54 381 211-4135",
+    "categoria": "Bar",
+    "fuente": "n8n",
+    "descripcion": "Bar restaurante en San Miguel de Tucumán con una puntuación de 4.2 basada en 5 reseñas, indicando una experiencia positiva entre sus visitantes.",
+    "fechaObtencion": "8 de Mayo del 2026",
+    "activo": true
+  },
+  {
+    "id": "ChIJCeQ47AlcIpQRTU-WHYODi5M",
+    "nombre": "Agos Cafe Bar",
+    "ubicacion": "San Miguel de Tucumán",
+    "telefono": "+54 381 484-9729",
+    "categoria": "Bar",
+    "fuente": "n8n",
+    "descripcion": "Bar en San Miguel de Tucumán con una puntuación de 4.4 basada en 60 reseñas, ideal para disfrutar un buen momento.",
+    "fechaObtencion": "8 de Mayo del 2026",
+    "activo": true
+  },
+  {
+    "id": "ChIJMc6-JABbIpQRDCIxK8DzlcA",
+    "nombre": "Doña Negrita (bar al paso)",
+    "ubicacion": "9 de Julio de 1816 2375, San Miguel de Tucumán",
+    "telefono": "sin definir",
+    "categoria": "Bar",
+    "fuente": "n8n",
+    "descripcion": "Bar al paso en San Miguel de Tucumán con excelente valoración de 5 sobre 4 opiniones, ideal para una parada rápida.",
+    "fechaObtencion": "8 de Mayo del 2026",
+    "activo": true
+  },
+  {
+    "id": "ChIJ3TXwOA1bIpQRp0zFQo0LRrg",
+    "nombre": "Maurito bar",
+    "ubicacion": "Entre Ríos 1813, San Miguel de Tucumán",
+    "telefono": "sin definir",
+    "categoria": "Bar",
+    "fuente": "n8n",
+    "descripcion": "Maurito bar es un bar en San Miguel de Tucumán con una puntuación destacada de 4.8 basada en 5 reseñas, ideal para quienes buscan un buen lugar para disfrutar.",
+    "fechaObtencion": "8 de Mayo del 2026",
+    "activo": true
+  },
+  {
+    "id": "ChIJjyBx1epbIpQRAs6eDNaINaI",
+    "nombre": "Bar Sagitario",
+    "ubicacion": "Buenos Aires, López Mañan &, San Miguel de Tucumán",
+    "telefono": "+54 381 429-4956",
+    "categoria": "Bar",
+    "fuente": "n8n",
+    "descripcion": "Bar Sagitario es un bar en San Miguel de Tucumán con una puntuación de 3.6 basada en 379 reseñas, ideal para quienes buscan un lugar relajado.",
+    "fechaObtencion": "8 de Mayo del 2026",
+    "activo": true
+  },
+  {
+    "id": "ChIJf1Bc9eNbIpQRWifodfzNpjk",
+    "nombre": "Bar sandwicheria EL PELADO",
+    "ubicacion": "Pcia de Jujuy 1398, San Miguel de Tucumán",
+    "telefono": "+54 381 363-7251",
+    "categoria": "Bar",
+    "fuente": "n8n",
+    "descripcion": "Bar y sandwichería en Pcia de Jujuy 1398, San Miguel de Tucumán. Con una puntuación de 4.6 basada en 74 reseñas, es una opción recomendada para los amantes de buenos bares.",
+    "fechaObtencion": "8 de Mayo del 2026",
+    "activo": true
+  },
+  {
+    "id": "ChIJcxfscbtbIpQRWFQJ_HfPLb8",
+    "nombre": "Bar Delivery SÚPER",
+    "ubicacion": "Pcia de Jujuy, San Miguel de Tucumán",
+    "telefono": "+54 381 588-6011",
+    "categoria": "Bar",
+    "fuente": "n8n",
+    "descripcion": "Bar Delivery SÚPER es un bar y carnicería en Pcia de Jujuy, San Miguel de Tucumán. Tiene una puntuación de 4 sobre 7 reseñas, lo que indica una buena aceptación entre sus clientes.",
+    "fechaObtencion": "8 de Mayo del 2026",
+    "activo": true
+  }
+]
