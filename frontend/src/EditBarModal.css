@@ -1,0 +1,25 @@
+.btn_edit{  /*botones dentro de la pestaña de editor*/
+    background-color: #B1C20E;
+    padding: 0.5rem;
+    margin: 0.3rem;
+    cursor: pointer;
+    color: #fff;
+    font-weight: 600;
+    border-radius: 4px;
+    
+}
+
+
+
+.btn_editar{  /*este es el boton que aparece en la tabla principal*/
+    cursor: pointer;
+}
+
+.input_edit{
+    margin-right: 0.2rem;
+    
+}
+
+.p_edit{
+    margin: 0.1rem;
+}

@@ -1,0 +1,59 @@
+*{
+  background-color: #FFF;
+  font-family: sans-serif;
+}
+
+.App {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.content {
+  flex: 1;
+}
+
+
+
+.App-header {
+  background-color: #B1C20E;
+  padding: 2rem;
+
+  display: flex;
+  justify-content: space-between;
+    
+}
+
+.App-header h2{
+  color: #fff;
+  background-color: #B1C20E;
+  cursor: default;
+}
+
+.App-header h2:hover{
+  color: #2D3035;
+}
+
+.btn_scrapear{
+  cursor: pointer;
+  /*background-color: #9d9c9c;*/
+  background-color: #fff;
+  font-weight: 600;
+  border: none;
+  border-radius: 7px;
+  font-size: 1.03rem;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1); /* Sombra sutil */
+  color: #2D3035
+  
+}
+
+.btn_scrapear:hover {
+  background-color: #f0f0f0; 
+  transform: translateY(-1px); /* Efecto de "levantado" */
+  box-shadow: 0 4px 8px rgba(0,0,0,0.15);
+}
+
+
+table{
+  border-collapse: collapse;
+}

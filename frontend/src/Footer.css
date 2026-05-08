@@ -1,0 +1,16 @@
+.footer{
+    background-color: #2D3035;;
+    margin-top: 4rem;
+    width: 100%;
+    display: flex;
+    justify-content: end;
+
+}
+
+.footer p{
+    padding: 1.3rem;
+    color: white;
+    background-color: #2D3035;
+    cursor: default;
+
+}
